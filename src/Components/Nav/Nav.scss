@@ -1,0 +1,47 @@
+.nav-box{
+    display: flex;
+    width: 100%;
+    max-width: 900px;
+    .logo-img{
+        cursor: pointer;
+        @media screen and (max-width: 414px){
+            margin-left: 20px;
+        }
+    }
+    .burgerMenu{
+        position: relative;
+        right: 56px;
+        display: none ;
+        @media screen and (max-width: 414px){
+            display: block;
+        }
+    }
+    
+    .list-box {
+        display: flex;
+        list-style: none;
+        justify-content: flex-end;
+        flex-direction: row;
+        align-items: center;
+        padding-left: 80px;
+        @media screen and (max-width: 768px){
+            padding-left: 70px;
+         
+        }
+        @media screen and (max-width: 414px){
+            
+            display: none;
+        }
+    }
+    .nav-link {
+        font-weight: bold;
+        font-size: 21px;
+        padding-left: 25px;
+        cursor: pointer;
+
+        @media screen and (max-width: 768px){
+            font-size: 15px;
+        padding-left: 15px;
+        }
+    }
+}

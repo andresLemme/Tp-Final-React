@@ -1,13 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './Pages/Index/App';
 import * as serviceWorker from './serviceWorker';
+import {BrowserRouter as Router, Link, Route} from 'react-router-dom'
+import Pelicula from './Pages/Pelicula/Pelicula';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <Router>
+    <Route component={App} path="/" exact />
+    <Route component={Pelicula} path="/pelicula" exact />
+    <Route component={Pelicula} path="/selected/:id" />
+  </Router>,
   document.getElementById('root')
 );
 

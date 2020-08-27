@@ -1,0 +1,699 @@
+[
+    {
+        "portada":{
+            "imgPortada": "https://i.postimg.cc/Lsyv0dRy/portada.png",
+            "mainTitle": "BLACK SUMMER",
+            "subTitle":"Original de Courflix",
+            "title": "Ver temporada 111",
+            "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+            "year": "2019",
+            "age": "+13",
+            "time":"1h 45min"
+        }
+    },
+    
+    {
+        "series": [
+            {
+                "id": 1,
+                "imgPortada": "https://i.postimg.cc/vZ54FZK8/beverly.jpg",
+                "img":"https://i.postimg.cc/R09QgPw6/1.jpg",
+                "titleP": "Beverly Luff Linn",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Lorem lorem romree  Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2015",
+                "age": "+18",
+                "time":"Temporada 1",
+                "epiInfo": [
+                    {
+                      "contentTitle": "1. Monotone/Colorful",
+                      "contentDesc": "A former piano prodigy is about to discover that a seemingly small event can drastically alter the direction of a person's life.",
+                      "contentImg":"https://i.postimg.cc/DwRsKtB3/cap1.jpg"
+                      },
+                      {
+                        "contentTitle": "2. Friend A",
+                        "contentDesc": "Kousei gets tricked into going to a performance by his close childhood friend and in that performance he starts to regain a shred of his passion.",
+                        "contentImg": "https://i.postimg.cc/Tw6DKgzk/cap2.jpg"
+                      },
+                      {
+                        "contentTitle": "3. Inside Spring",
+                        "contentDesc": "Kousei's friends work together to try to convince him to accompany Kaori at her next recital.",
+                        "contentImg": "https://i.postimg.cc/SRQYrqNC/cap3.jpg"
+                      },
+                      {
+                        "contentTitle": "4. Departure",
+                        "contentDesc": "Kousai being Kaori's accompanist appears to be a bad idea.",
+                        "contentImg": "https://i.postimg.cc/G2xsG9rb/cap4.jpg"
+                      },
+                      {
+                        "contentTitle": "5. Gray Skies",
+                        "contentDesc": "Kaori is hospitalized after the competition. Kousei thinks deeply that playing the piano is the only way he can live. Tsubaki gets asked out by her senior she had admired before.",
+                        "contentImg": "https://i.postimg.cc/h4MdGJpr/cap5.jpg"
+                      }
+                ]
+                
+            },
+            {
+                "id": 2,
+                "imgPortada": "https://i.postimg.cc/4N7KP5b9/dark.jpg",
+                "img": "https://i.postimg.cc/J09jZK1h/2.png",
+                "titleP": "Dark",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2005",
+                "age": "+16",
+                "time":"Temporada 2",
+                "epiInfo": [
+                    {
+                      "contentTitle": "1. Monotone/Colorful",
+                      "contentDesc": "A former piano prodigy is about to discover that a seemingly small event can drastically alter the direction of a person's life.",
+                      "contentImg":"https://i.postimg.cc/DwRsKtB3/cap1.jpg"
+                      },
+                      {
+                        "contentTitle": "2. Friend A",
+                        "contentDesc": "Kousei gets tricked into going to a performance by his close childhood friend and in that performance he starts to regain a shred of his passion.",
+                        "contentImg": "https://i.postimg.cc/Tw6DKgzk/cap2.jpg"
+                      },
+                      {
+                        "contentTitle": "3. Inside Spring",
+                        "contentDesc": "Kousei's friends work together to try to convince him to accompany Kaori at her next recital.",
+                        "contentImg": "https://i.postimg.cc/SRQYrqNC/cap3.jpg"
+                      },
+                      {
+                        "contentTitle": "4. Departure",
+                        "contentDesc": "Kousai being Kaori's accompanist appears to be a bad idea.",
+                        "contentImg": "https://i.postimg.cc/G2xsG9rb/cap4.jpg"
+                      },
+                      {
+                        "contentTitle": "5. Gray Skies",
+                        "contentDesc": "Kaori is hospitalized after the competition. Kousei thinks deeply that playing the piano is the only way he can live. Tsubaki gets asked out by her senior she had admired before.",
+                        "contentImg": "https://i.postimg.cc/h4MdGJpr/cap5.jpg"
+                      }
+                ]
+                
+            },
+            {
+                "id": 3,
+                "imgPortada": "https://i.postimg.cc/pXwm6Fq1/fluffy.jpg",
+                "img": "https://i.postimg.cc/7hCg5jrc/3.jpg",
+                "titleP": "Gabriel Fluffy",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2014",
+                "age": "+21",
+                "time":"Temporada 3",
+                "epiInfo": [
+                    {
+                      "contentTitle": "1. Monotone/Colorful",
+                      "contentDesc": "A former piano prodigy is about to discover that a seemingly small event can drastically alter the direction of a person's life.",
+                      "contentImg":"https://i.postimg.cc/DwRsKtB3/cap1.jpg"
+                      },
+                      {
+                        "contentTitle": "2. Friend A",
+                        "contentDesc": "Kousei gets tricked into going to a performance by his close childhood friend and in that performance he starts to regain a shred of his passion.",
+                        "contentImg": "https://i.postimg.cc/Tw6DKgzk/cap2.jpg"
+                      },
+                      {
+                        "contentTitle": "3. Inside Spring",
+                        "contentDesc": "Kousei's friends work together to try to convince him to accompany Kaori at her next recital.",
+                        "contentImg": "https://i.postimg.cc/SRQYrqNC/cap3.jpg"
+                      },
+                      {
+                        "contentTitle": "4. Departure",
+                        "contentDesc": "Kousai being Kaori's accompanist appears to be a bad idea.",
+                        "contentImg": "https://i.postimg.cc/G2xsG9rb/cap4.jpg"
+                      },
+                      {
+                        "contentTitle": "5. Gray Skies",
+                        "contentDesc": "Kaori is hospitalized after the competition. Kousei thinks deeply that playing the piano is the only way he can live. Tsubaki gets asked out by her senior she had admired before.",
+                        "contentImg": "https://i.postimg.cc/h4MdGJpr/cap5.jpg"
+                      }
+                ]
+                
+            },
+            {
+                "id": 4,
+                "imgPortada": "https://i.postimg.cc/mZ6z7qM4/lucifer.jpg",
+                "img": "https://i.postimg.cc/mZqYvZQG/4.png",
+                "titleP": "Lucifer",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2001",
+                "age": "+16",
+                "time":"Temporada 4",
+                "epiInfo": [
+                    {
+                      "contentTitle": "1. Monotone/Colorful",
+                      "contentDesc": "A former piano prodigy is about to discover that a seemingly small event can drastically alter the direction of a person's life.",
+                      "contentImg":"https://i.postimg.cc/DwRsKtB3/cap1.jpg"
+                      },
+                      {
+                        "contentTitle": "2. Friend A",
+                        "contentDesc": "Kousei gets tricked into going to a performance by his close childhood friend and in that performance he starts to regain a shred of his passion.",
+                        "contentImg": "https://i.postimg.cc/Tw6DKgzk/cap2.jpg"
+                      },
+                      {
+                        "contentTitle": "3. Inside Spring",
+                        "contentDesc": "Kousei's friends work together to try to convince him to accompany Kaori at her next recital.",
+                        "contentImg": "https://i.postimg.cc/SRQYrqNC/cap3.jpg"
+                      },
+                      {
+                        "contentTitle": "4. Departure",
+                        "contentDesc": "Kousai being Kaori's accompanist appears to be a bad idea.",
+                        "contentImg": "https://i.postimg.cc/G2xsG9rb/cap4.jpg"
+                      },
+                      {
+                        "contentTitle": "5. Gray Skies",
+                        "contentDesc": "Kaori is hospitalized after the competition. Kousei thinks deeply that playing the piano is the only way he can live. Tsubaki gets asked out by her senior she had admired before.",
+                        "contentImg": "https://i.postimg.cc/h4MdGJpr/cap5.jpg"
+                      }
+                ]
+                
+            },
+            {
+                "id": 5,
+                "imgPortada": "https://i.postimg.cc/K84yBqn6/protector.jpg",
+                "img": "https://i.postimg.cc/NfH6Bh42/5.png",
+                "titleP": "The protector",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2019",
+                "age": "+13",
+                "time":"Temporada 5",
+                "epiInfo": [
+                    {
+                      "contentTitle": "1. Monotone/Colorful",
+                      "contentDesc": "A former piano prodigy is about to discover that a seemingly small event can drastically alter the direction of a person's life.",
+                      "contentImg":"https://i.postimg.cc/DwRsKtB3/cap1.jpg"
+                      },
+                      {
+                        "contentTitle": "2. Friend A",
+                        "contentDesc": "Kousei gets tricked into going to a performance by his close childhood friend and in that performance he starts to regain a shred of his passion.",
+                        "contentImg": "https://i.postimg.cc/Tw6DKgzk/cap2.jpg"
+                      },
+                      {
+                        "contentTitle": "3. Inside Spring",
+                        "contentDesc": "Kousei's friends work together to try to convince him to accompany Kaori at her next recital.",
+                        "contentImg": "https://i.postimg.cc/SRQYrqNC/cap3.jpg"
+                      },
+                      {
+                        "contentTitle": "4. Departure",
+                        "contentDesc": "Kousai being Kaori's accompanist appears to be a bad idea.",
+                        "contentImg": "https://i.postimg.cc/G2xsG9rb/cap4.jpg"
+                      },
+                      {
+                        "contentTitle": "5. Gray Skies",
+                        "contentDesc": "Kaori is hospitalized after the competition. Kousei thinks deeply that playing the piano is the only way he can live. Tsubaki gets asked out by her senior she had admired before.",
+                        "contentImg": "https://i.postimg.cc/h4MdGJpr/cap5.jpg"
+                      }
+                ]
+                
+            },
+            {
+                "id": 6,
+                "imgPortada": "https://i.postimg.cc/zXxrLZRw/russian.png",
+                "img":"https://i.postimg.cc/s2cPqpJn/6.jpg",
+                "titleP": "Rossian Doll",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2019",
+                "age": "+13",
+                "time":"temporada 6",
+                "epiInfo": [
+                    {
+                      "contentTitle": "1. Monotone/Colorful",
+                      "contentDesc": "A former piano prodigy is about to discover that a seemingly small event can drastically alter the direction of a person's life.",
+                      "contentImg":"https://i.postimg.cc/DwRsKtB3/cap1.jpg"
+                      },
+                      {
+                        "contentTitle": "2. Friend A",
+                        "contentDesc": "Kousei gets tricked into going to a performance by his close childhood friend and in that performance he starts to regain a shred of his passion.",
+                        "contentImg": "https://i.postimg.cc/Tw6DKgzk/cap2.jpg"
+                      },
+                      {
+                        "contentTitle": "3. Inside Spring",
+                        "contentDesc": "Kousei's friends work together to try to convince him to accompany Kaori at her next recital.",
+                        "contentImg": "https://i.postimg.cc/SRQYrqNC/cap3.jpg"
+                      },
+                      {
+                        "contentTitle": "4. Departure",
+                        "contentDesc": "Kousai being Kaori's accompanist appears to be a bad idea.",
+                        "contentImg": "https://i.postimg.cc/G2xsG9rb/cap4.jpg"
+                      },
+                      {
+                        "contentTitle": "5. Gray Skies",
+                        "contentDesc": "Kaori is hospitalized after the competition. Kousei thinks deeply that playing the piano is the only way he can live. Tsubaki gets asked out by her senior she had admired before.",
+                        "contentImg": "https://i.postimg.cc/h4MdGJpr/cap5.jpg"
+                      }
+                ]
+                
+            },
+            {
+                "id": 7,
+                "imgPortada": "https://i.postimg.cc/QxQqShq5/seven.jpg",
+                "img": "https://i.postimg.cc/y8CFNfQQ/7.png",
+                "titleP": "The seven deadly",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2019",
+                "age": "+13",
+                "time":"Temporada 7",
+                "epiInfo": [
+                    {
+                      "contentTitle": "1. Monotone/Colorful",
+                      "contentDesc": "A former piano prodigy is about to discover that a seemingly small event can drastically alter the direction of a person's life.",
+                      "contentImg":"https://i.postimg.cc/DwRsKtB3/cap1.jpg"
+                      },
+                      {
+                        "contentTitle": "2. Friend A",
+                        "contentDesc": "Kousei gets tricked into going to a performance by his close childhood friend and in that performance he starts to regain a shred of his passion.",
+                        "contentImg": "https://i.postimg.cc/Tw6DKgzk/cap2.jpg"
+                      },
+                      {
+                        "contentTitle": "3. Inside Spring",
+                        "contentDesc": "Kousei's friends work together to try to convince him to accompany Kaori at her next recital.",
+                        "contentImg": "https://i.postimg.cc/SRQYrqNC/cap3.jpg"
+                      },
+                      {
+                        "contentTitle": "4. Departure",
+                        "contentDesc": "Kousai being Kaori's accompanist appears to be a bad idea.",
+                        "contentImg": "https://i.postimg.cc/G2xsG9rb/cap4.jpg"
+                      },
+                      {
+                        "contentTitle": "5. Gray Skies",
+                        "contentDesc": "Kaori is hospitalized after the competition. Kousei thinks deeply that playing the piano is the only way he can live. Tsubaki gets asked out by her senior she had admired before.",
+                        "contentImg": "https://i.postimg.cc/h4MdGJpr/cap5.jpg"
+                      }
+                ]
+                
+            },
+            {
+                "id": 8,
+                "imgPortada": "https://i.postimg.cc/QxQqShq5/seven.jpg",
+                "img": "https://i.postimg.cc/y8CFNfQQ/5.png",
+                "titleP": "The seven deadly",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2019",
+                "age": "+13",
+                "time":"Temporada 8",
+                "epiInfo": [
+                    {
+                      "contentTitle": "1. Monotone/Colorful",
+                      "contentDesc": "A former piano prodigy is about to discover that a seemingly small event can drastically alter the direction of a person's life.",
+                      "contentImg":"https://i.postimg.cc/DwRsKtB3/cap1.jpg"
+                      },
+                      {
+                        "contentTitle": "2. Friend A",
+                        "contentDesc": "Kousei gets tricked into going to a performance by his close childhood friend and in that performance he starts to regain a shred of his passion.",
+                        "contentImg": "https://i.postimg.cc/Tw6DKgzk/cap2.jpg"
+                      },
+                      {
+                        "contentTitle": "3. Inside Spring",
+                        "contentDesc": "Kousei's friends work together to try to convince him to accompany Kaori at her next recital.",
+                        "contentImg": "https://i.postimg.cc/SRQYrqNC/cap3.jpg"
+                      },
+                      {
+                        "contentTitle": "4. Departure",
+                        "contentDesc": "Kousai being Kaori's accompanist appears to be a bad idea.",
+                        "contentImg": "https://i.postimg.cc/G2xsG9rb/cap4.jpg"
+                      },
+                      {
+                        "contentTitle": "5. Gray Skies",
+                        "contentDesc": "Kaori is hospitalized after the competition. Kousei thinks deeply that playing the piano is the only way he can live. Tsubaki gets asked out by her senior she had admired before.",
+                        "contentImg": "https://i.postimg.cc/h4MdGJpr/cap5.jpg"
+                      }
+                ]
+                
+            }
+        ],   
+    
+        "peliculas": [
+            {
+                "id": 9,
+                "imgPortada": "https://i.postimg.cc/G2vjNR1Z/arrow.jpg",
+                "img": "https://i.postimg.cc/vBnyDYHj/arrow.jpg",
+                "titleP": "Arrow",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2019",
+                "age": "+13",
+                "time":"1h 45min"
+            
+                
+            },
+            {
+                "id": 10,
+                "imgPortada": "https://i.postimg.cc/XYDxBx8D/flash.jpg",
+                "img": "https://i.postimg.cc/3NHTvskw/flash.png",
+                "titleP": "Flash",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2018",
+                "age": "+16",
+                "time":"1h 30min"
+             
+                
+            },
+            {
+                "id": 11,
+                "imgPortada": "https://i.postimg.cc/0NMnYmX5/laordensecreta.jpg",
+                "img": "https://i.postimg.cc/tgwyXZyW/laordensecreta.png",
+                "titleP": "La orden secreta",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2017",
+                "age": "+21",
+                "time":"2h 15min"
+               
+                
+            },
+            {
+                "id": 12,
+                "imgPortada": "https://i.postimg.cc/pXwm6Fq1/fluffy.jpg",
+                "img": "https://i.postimg.cc/SR7p7g9f/vikingos.png",
+                "titleP": "Vikingos",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2016",
+                "age": "+13",
+                "time":"1h 05min"
+              
+                
+            },
+            {
+                "id": 13,
+                "imgPortada": "https://i.postimg.cc/4N7KP5b9/dark.jpg",
+                "img": "https://i.postimg.cc/J09jZK1h/2.png",
+                "titleP": "BLACK SUMMER",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2015",
+                "age": "+19",
+                "time":"1h 20min"
+            
+                
+            },
+            {
+                "id": 14,
+                "imgPortada": "https://i.postimg.cc/4N7KP5b9/dark.jpg",
+                "img": "https://i.postimg.cc/J09jZK1h/2.png",
+                "titleP": "BLACK SUMMER",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2014",
+                "age": "+13",
+                "time":"1h 35min"
+           
+                
+            },
+            {
+                "id": 15,
+                "imgPortada": "https://i.postimg.cc/4N7KP5b9/dark.jpg",
+                "img": "https://i.postimg.cc/J09jZK1h/2.png",
+                "titleP": "BLACK SUMMER",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2013",
+                "age": "+21",
+                "time":"1h 45min"
+             
+                
+            },
+            {
+                "id": 16,
+                "imgPortada": "https://i.postimg.cc/4N7KP5b9/dark.jpg",
+                "img": "https://i.postimg.cc/J09jZK1h/2.png",
+                "titleP": "BLACK SUMMER",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2019",
+                "age": "+13",
+                "time":"1h 45min"
+            
+                
+            }
+        ],
+    
+        "recomendadas": [
+            {
+                "id": 17,
+                "imgPortada": "https://i.postimg.cc/YqKLCPWC/altamar.jpg",
+                "img": "https://i.postimg.cc/PqrztJKX/altamar.jpg",
+                "titleP": "alta Mar",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2019",
+                "age": "+13",
+                "time":"Temporada 2",
+                "epiInfo": [
+                    {
+                      "contentTitle": "1. Monotone/Colorful",
+                      "contentDesc": "A former piano prodigy is about to discover that a seemingly small event can drastically alter the direction of a person's life.",
+                      "contentImg":"https://i.postimg.cc/DwRsKtB3/cap1.jpg"
+                      },
+                      {
+                        "contentTitle": "2. Friend A",
+                        "contentDesc": "Kousei gets tricked into going to a performance by his close childhood friend and in that performance he starts to regain a shred of his passion.",
+                        "contentImg": "https://i.postimg.cc/Tw6DKgzk/cap2.jpg"
+                      },
+                      {
+                        "contentTitle": "3. Inside Spring",
+                        "contentDesc": "Kousei's friends work together to try to convince him to accompany Kaori at her next recital.",
+                        "contentImg": "https://i.postimg.cc/SRQYrqNC/cap3.jpg"
+                      },
+                      {
+                        "contentTitle": "4. Departure",
+                        "contentDesc": "Kousai being Kaori's accompanist appears to be a bad idea.",
+                        "contentImg": "https://i.postimg.cc/G2xsG9rb/cap4.jpg"
+                      },
+                      {
+                        "contentTitle": "5. Gray Skies",
+                        "contentDesc": "Kaori is hospitalized after the competition. Kousei thinks deeply that playing the piano is the only way he can live. Tsubaki gets asked out by her senior she had admired before.",
+                        "contentImg": "https://i.postimg.cc/h4MdGJpr/cap5.jpg"
+                      }
+                ]
+                
+            },
+            {
+                "id": 18,
+                "imgPortada": "https://i.postimg.cc/59FF1Jjr/chicasbuenas.jpg",
+                "img": "https://i.postimg.cc/QM4gVDnp/chicasbuenas.jpg",
+                "titleP": "Chicas buenas",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2019",
+                "age": "+13",
+                "time":"1h 45min"
+            
+                
+            },
+            {
+                "id": 19,
+                "imgPortada": "https://i.postimg.cc/Y0g4x6J7/dulcesmagnolias.jpg",
+                "img": "https://i.postimg.cc/W3dGkyQx/dulces.jpg",
+                "titleP": "Dulces Magnolias",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2019",
+                "age": "+13",
+                "time":"1h 45min",
+                "epiInfo": [
+                    {
+                      "contentTitle": "1. Monotone/Colorful",
+                      "contentDesc": "A former piano prodigy is about to discover that a seemingly small event can drastically alter the direction of a person's life.",
+                      "contentImg":"https://i.postimg.cc/DwRsKtB3/cap1.jpg"
+                      },
+                      {
+                        "contentTitle": "2. Friend A",
+                        "contentDesc": "Kousei gets tricked into going to a performance by his close childhood friend and in that performance he starts to regain a shred of his passion.",
+                        "contentImg": "https://i.postimg.cc/Tw6DKgzk/cap2.jpg"
+                      },
+                      {
+                        "contentTitle": "3. Inside Spring",
+                        "contentDesc": "Kousei's friends work together to try to convince him to accompany Kaori at her next recital.",
+                        "contentImg": "https://i.postimg.cc/SRQYrqNC/cap3.jpg"
+                      },
+                      {
+                        "contentTitle": "4. Departure",
+                        "contentDesc": "Kousai being Kaori's accompanist appears to be a bad idea.",
+                        "contentImg": "https://i.postimg.cc/G2xsG9rb/cap4.jpg"
+                      },
+                      {
+                        "contentTitle": "5. Gray Skies",
+                        "contentDesc": "Kaori is hospitalized after the competition. Kousei thinks deeply that playing the piano is the only way he can live. Tsubaki gets asked out by her senior she had admired before.",
+                        "contentImg": "https://i.postimg.cc/h4MdGJpr/cap5.jpg"
+                      }
+                ]
+                
+            },
+            {
+                "id": 20,
+                "imgPortada": "https://i.postimg.cc/CKPfMLj3/rita.jpg",
+                "img": "https://i.postimg.cc/76jgMV4h/rita.jpg",
+                "titleP": "Rita",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2019",
+                "age": "+13",
+                "time":"1h 45min"
+           
+                
+            },
+            {
+                "id": 21,
+                "imgPortada": "https://i.postimg.cc/pXwm6Fq1/fluffy.jpg",
+                "img": "https://i.postimg.cc/7hCg5jrc/3.jpg",
+                "titleP": "BLACK SUMMER",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2019",
+                "age": "+13",
+                "time":"Temporada 3",
+                "epiInfo": [
+                    {
+                      "contentTitle": "1. Monotone/Colorful",
+                      "contentDesc": "A former piano prodigy is about to discover that a seemingly small event can drastically alter the direction of a person's life.",
+                      "contentImg":"https://i.postimg.cc/DwRsKtB3/cap1.jpg"
+                      },
+                      {
+                        "contentTitle": "2. Friend A",
+                        "contentDesc": "Kousei gets tricked into going to a performance by his close childhood friend and in that performance he starts to regain a shred of his passion.",
+                        "contentImg": "https://i.postimg.cc/Tw6DKgzk/cap2.jpg"
+                      },
+                      {
+                        "contentTitle": "3. Inside Spring",
+                        "contentDesc": "Kousei's friends work together to try to convince him to accompany Kaori at her next recital.",
+                        "contentImg": "https://i.postimg.cc/SRQYrqNC/cap3.jpg"
+                      },
+                      {
+                        "contentTitle": "4. Departure",
+                        "contentDesc": "Kousai being Kaori's accompanist appears to be a bad idea.",
+                        "contentImg": "https://i.postimg.cc/G2xsG9rb/cap4.jpg"
+                      },
+                      {
+                        "contentTitle": "5. Gray Skies",
+                        "contentDesc": "Kaori is hospitalized after the competition. Kousei thinks deeply that playing the piano is the only way he can live. Tsubaki gets asked out by her senior she had admired before.",
+                        "contentImg": "https://i.postimg.cc/h4MdGJpr/cap5.jpg"
+                      }
+                ]
+                
+            },
+            {
+                "id": 22,
+                "imgPortada": "https://i.postimg.cc/pXwm6Fq1/fluffy.jpg",
+                "img": "https://i.postimg.cc/7hCg5jrc/3.jpg",
+                "titleP": "BLACK SUMMER",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2019",
+                "age": "+13",
+                "time":"1h 45min"
+            
+                
+            },
+            {
+                "id": 23,
+                "imgPortada": "https://i.postimg.cc/pXwm6Fq1/fluffy.jpg",
+                "img": "https://i.postimg.cc/7hCg5jrc/3.jpg",
+                "titleP": "BLACK SUMMER",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2019",
+                "age": "+13",
+                "time":"1h 45min",
+                "epiInfo": [
+                    {
+                      "contentTitle": "1. Monotone/Colorful",
+                      "contentDesc": "A former piano prodigy is about to discover that a seemingly small event can drastically alter the direction of a person's life.",
+                      "contentImg":"https://i.postimg.cc/DwRsKtB3/cap1.jpg"
+                      },
+                      {
+                        "contentTitle": "2. Friend A",
+                        "contentDesc": "Kousei gets tricked into going to a performance by his close childhood friend and in that performance he starts to regain a shred of his passion.",
+                        "contentImg": "https://i.postimg.cc/Tw6DKgzk/cap2.jpg"
+                      },
+                      {
+                        "contentTitle": "3. Inside Spring",
+                        "contentDesc": "Kousei's friends work together to try to convince him to accompany Kaori at her next recital.",
+                        "contentImg": "https://i.postimg.cc/SRQYrqNC/cap3.jpg"
+                      },
+                      {
+                        "contentTitle": "4. Departure",
+                        "contentDesc": "Kousai being Kaori's accompanist appears to be a bad idea.",
+                        "contentImg": "https://i.postimg.cc/G2xsG9rb/cap4.jpg"
+                      },
+                      {
+                        "contentTitle": "5. Gray Skies",
+                        "contentDesc": "Kaori is hospitalized after the competition. Kousei thinks deeply that playing the piano is the only way he can live. Tsubaki gets asked out by her senior she had admired before.",
+                        "contentImg": "https://i.postimg.cc/h4MdGJpr/cap5.jpg"
+                      }
+                ]
+                
+            },
+            {
+                "id": 24,
+                "imgPortada": "https://i.postimg.cc/pXwm6Fq1/fluffy.jpg",
+                "img": "https://i.postimg.cc/7hCg5jrc/3.jpg",
+                "titleP": "BLACK SUMMER",
+                "subTitle":"Original de Courflix",
+                "title": "Ver temporada 1",
+                "description":"Una ansiada luna de miel. Un asesinato terrible. Varios sospechosos. Si sobreviven, serán unas vacaciones de ensueño.",
+                "year": "2019",
+                "age": "+13",
+                "time":"1h 45min",
+                "epiInfo": [
+                    {
+                      "contentTitle": "1. Monotone/Colorful",
+                      "contentDesc": "A former piano prodigy is about to discover that a seemingly small event can drastically alter the direction of a person's life.",
+                      "contentImg":"https://i.postimg.cc/DwRsKtB3/cap1.jpg"
+                      },
+                      {
+                        "contentTitle": "2. Friend A",
+                        "contentDesc": "Kousei gets tricked into going to a performance by his close childhood friend and in that performance he starts to regain a shred of his passion.",
+                        "contentImg": "https://i.postimg.cc/Tw6DKgzk/cap2.jpg"
+                      },
+                      {
+                        "contentTitle": "3. Inside Spring",
+                        "contentDesc": "Kousei's friends work together to try to convince him to accompany Kaori at her next recital.",
+                        "contentImg": "https://i.postimg.cc/SRQYrqNC/cap3.jpg"
+                      },
+                      {
+                        "contentTitle": "4. Departure",
+                        "contentDesc": "Kousai being Kaori's accompanist appears to be a bad idea.",
+                        "contentImg": "https://i.postimg.cc/G2xsG9rb/cap4.jpg"
+                      },
+                      {
+                        "contentTitle": "5. Gray Skies",
+                        "contentDesc": "Kaori is hospitalized after the competition. Kousei thinks deeply that playing the piano is the only way he can live. Tsubaki gets asked out by her senior she had admired before.",
+                        "contentImg": "https://i.postimg.cc/h4MdGJpr/cap5.jpg"
+                      }
+                ]
+                
+            }
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+.Slider-box {
+    margin: 0 0 60px 122px;
+    @media screen and (max-width: 1024px){
+      margin: 0 0 60px 60px;
+    }
+    @media screen and (max-width: 414px){
+      margin: 0 0 35px 20px;
+    }
+    .title {
+      color: #ffffff;
+      display: flex;
+      font-size: 24px;
+      padding-bottom: 15px;
+    }
+    .progressbar {
+      width: 75%;
+      height: 7px;
+      background-color: #797979;
+      border-radius: 4px;
+      margin: 10px auto 0px;
+      overflow: hidden;
+  
+      .progress {
+        width: 45%;
+        height: 100%;
+        background-color: red;
+      }
+    }
+    .slick-slide {
+      img {
+        display: block;
+        width: 100%;
+        transition: 0.5s ease all;
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+        padding-right: 20px;
+      }
+      &:hover {
+        transform: scale(1.2);
+        transform-origin: center;
+      }
+    }
+    .slick-next:before,
+    .slick-prev:before {
+      display: none;
+    }
+  }
+  

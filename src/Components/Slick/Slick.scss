@@ -1,0 +1,15 @@
+.containerElement{
+    .title {
+        color: #ffffff;
+        display: flex;
+        font-size: 24px;
+        padding-bottom: 15px;
+        margin: 0 0 0px 122px;
+        @media screen and (max-width: 1024px){
+            margin: 0 0 20px 60px;
+          }
+          @media screen and (max-width: 414px){
+            margin: 0 0 0px 20px;
+          }
+      }
+}
